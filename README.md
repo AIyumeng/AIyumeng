@@ -7,14 +7,14 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 - 🌱 I’m currently learning and exploring new technologies.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about web development, Python, and AI/ML.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [yumengding66@gmail.com](mailto:yumengding66@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** React, Django, Flask
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker, VS Code
+- **Languages:** Python, C, C++
+- **Frameworks:** PyTorch, TensorFlow, Scikit-learn
+- **Tools:** Git, Docker, VS Code, Neovim
+- **Background:** I am a student specializing in the field of Artificial Intelligence
 
 ## 🔥 My Stats
 
@@ -34,7 +34,8 @@ Here are some of my favorite projects:
 
 ## 📢 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/AIyumeng)
-- [Twitter](https://twitter.com/AIyumeng)
+- [QQ 邮箱](mailto:2517219102@qq.com)
+- [谷歌邮箱](mailto:yumengding66@gmail.com)
+- [校园邮箱](mailto:dingyumeng@stu.xjtu.edu.cn)
 
 Thanks for visiting my profile! Have a great day! 😊
