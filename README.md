@@ -39,3 +39,5 @@ Here are some of my favorite projects:
 - [校园邮箱](mailto:dingyumeng@stu.xjtu.edu.cn)
 
 Thanks for visiting my profile! Have a great day! 😊
+---
+✨ Thanks for visiting my GitHub profile. Keep learning, keep building!
